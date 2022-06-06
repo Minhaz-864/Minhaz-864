@@ -32,13 +32,13 @@
 </p>
 <p align="left"> <p>Opensource:</p>
   <a href="https://skillicons.dev"> 
-    <img src="https://skillicons.dev/icons?i=wordpress, " />
+    <img src="https://skillicons.dev/icons?i=wordpress " />
   </a>
 </p>
 
 <p align="left"> <p>Hardware & Microprocessing:</p>
   <a href="https://skillicons.dev"> 
-    <img src="https://skillicons.dev/icons?i=arduino, raspberrypi" />
+    <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
   </a>
 </p>
 
