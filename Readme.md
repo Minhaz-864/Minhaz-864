@@ -43,4 +43,4 @@
 </p>
 
 
-![Minhaz's github stats](https://github-readme-stats.vercel.app/api?username=Minhaz-864&show_icons=true&count_private=true&theme=synthwave&hide=contribs) ![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Minhaz-864&theme=dracula)
+![Minhaz's github stats](https://github-readme-stats.vercel.app/api?username=noobinhaz&show_icons=true&count_private=true&theme=synthwave&hide=contribs) ![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=noobinhaz&theme=dracula)
